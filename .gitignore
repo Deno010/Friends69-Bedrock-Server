@@ -1,0 +1,5 @@
+# Ignore server runtime files
+bedrock-server/
+*.zip
+*.log
+*.db
